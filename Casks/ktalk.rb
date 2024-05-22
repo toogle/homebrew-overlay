@@ -1,6 +1,6 @@
 cask "ktalk" do
-  version "2.10.0"
-  sha256 "54bf74a0e0063295bde6533e621e4e120adb2f5f9acba65b5153e21bcb4f067b"
+  version "2.11.0"
+  sha256 "8aa92702d5b02fb4249fd2a2909148d4d1238488aa323966c593ca6a4623cbe5"
 
   url "https://st.ktalk.host/ktalk-app/mac/ktalk.#{version}-mac.dmg"
   name "ktalk"
